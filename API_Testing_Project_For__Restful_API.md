@@ -11,11 +11,11 @@ Collection link: https://api.restful-api.dev/
 <h2>Tests performed</h2>
 
 <ol>
-<li>Get list of all objects</li>
+<li>GET Get list of all objects</li>
 
-HTTP method for request: https://api.restful-api.dev/objects <br>
+HTTP method for request: GET https://api.restful-api.dev/objects <br>
 Request description: This GET request lists all of the objects stored from the API's database <br>
-Test types / techniques used: Status code is 200 and Body contains "name" <br>
+Test types / techniques used: White box testing <br>
 Response status code: 200OK <br>
 
 Below you can find a picture of the API request from Postman:<br>
@@ -25,19 +25,20 @@ Below you can find a picture of the API request from Postman:<br>
 
 JavaScript Tests:
 
-**Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora**<br>
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/a6a57976-ed5d-4db8-b3d1-81dc64a5d399)
 
 
-<li>**Nume Request 2**</li>
+<li>POST: Add an object</li>
 
-HTTP method for request: **Inserati aici metoda HTTP a requestului**<br>
-Request description: **Inserati o scurta descriere a requestului, conform documentatiei de API**<br>
-Test types / techniques used: **Inserati tipurile si tehnicile de testare folosite pentru acest request**<br>
-Response status code: **Inserati aici status code-ul pe care l-ati obtinut in urma executiei requestului**<br>
+HTTP method for request: POST: https://api.restful-api.dev/objects <br>
+Request description: This POST request adds a new obiect with totally new lines,datas resulting an unique ID number<br>
+Test types / techniques used: White box testing <br>
+Response status code: 200OK <br>
 
 Below you can find a picture of the API request from Postman:<br>
 
-**Inserati aici o poza cu requestul din postman in care sa se observe request method, endpoint, request body si response body**<br>
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/3b09d553-ca85-4b77-a59a-913cc59441be)
+<br>
 
 JavaScript Tests:
 
