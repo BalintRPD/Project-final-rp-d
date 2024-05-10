@@ -1,22 +1,22 @@
-<h1>API Testing Project for **Inserati aici numele aplicatiei pe care o testati**</h1>
+<h1>API Testing Project for Restful API</h1>
 
 The scope of this project is to use all  API knowledge gained throught the Software Testing course and apply them in practice, using a live application.
 
-Application under test: **Inserati aici numele aplicatiei pe care o testati**
+Application under test: Restful API
 
 Tools used: Postman, Newman
 
-Collection link: **Inserati aici linkul catre colectia de API**
+Collection link: https://api.restful-api.dev/
 
 <h2>Tests performed</h2>
 
 <ol>
-<li>**Nume Request 1**</li>
+<li>Get list of all objects</li>
 
-HTTP method for request: **Inserati aici metoda HTTP a requestului**<br>
-Request description: **Inserati o scurta descriere a requestului, conform documentatiei de API**<br>
-Test types / techniques used: **Inserati tipurile si tehnicile de testare folosite pentru acest request**<br>
-Response status code: **Inserati aici status code-ul pe care l-ati obtinut in urma executiei requestului**<br>
+HTTP method for request: https://api.restful-api.dev/objects <br>
+Request description: This GET request lists all of the objects stored from the API's database <br>
+Test types / techniques used: Status code is 200 and Body contains "name" <br>
+Response status code: 200OK <br>
 
 Below you can find a picture of the API request from Postman:<br>
 
