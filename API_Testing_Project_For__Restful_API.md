@@ -92,7 +92,7 @@ With the PATCH Update an object request the user normally can update one or more
 <h2>Conclusions</h2>
 
 This Restful API is almost ready to publish as 100% passed, the only things I have experienced are the following:
--After the execution of 11 tests 10 has passed and only 1 is failed
+-After the execution of 11 tests 10 has passed and only 1 is failed meaning that the 90.90% of the tests are passed
 -The GET Get all objects request do not bring up the manually added objects by the user with the POST Add an object request
 -The PATCH Update object request can update/patch correctly only the "name" value, the other values from the "data" field will be deleted, only the patched line will stay they (for example I PATCH the "color" value to "Yellow" for oject with ID=1 and the "capacity value will dissapear, only the "color" : "Yellow" will stay there
 -There are some performance issues, while executing the same request for example the GET Get all objects will have the response time of 300ms 900ms and even 3 or 4 seconds to, so the performance is not stable on the servers side. These tests were made without any extra network using apps on my PC.
