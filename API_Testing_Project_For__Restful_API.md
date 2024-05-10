@@ -20,7 +20,8 @@ Response status code: 200OK <br>
 
 Below you can find a picture of the API request from Postman:<br>
 
-**Inserati aici o poza cu requestul din postman in care sa se observe request method, endpoint, request body si response body**<br>
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/adb404d9-e124-42ea-a54f-58abbd3e3f18)
+
 
 JavaScript Tests:
 
