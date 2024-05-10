@@ -41,25 +41,28 @@ Below you can find a picture of the API request from Postman:<br>
 <br>
 
 JavaScript Tests:
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/de893226-adef-4c15-b0bd-1ca097dc0720)
 
-**Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora**<br>
+<br>
 
 .............
 
-<li>**Nume Request n**</li>
+<li>PUT Update object</li>
 
-HTTP method for request: **Inserati aici metoda HTTP a requestului**<br>
-Request description: **Inserati o scurta descriere a requestului, conform documentatiei de API**<br>
-Test types / techniques used: **Inserati tipurile si tehnicile de testare folosite pentru acest request**<br>
-Response status code: **Inserati aici status code-ul pe care l-ati obtinut in urma executiei requestului**<br>
+HTTP method for request: PUT https://api.restful-api.dev/objects<br>
+Request description: This PUT request adds new line/s to a specific ID s object<br>
+Test types / techniques used: White box testing<br>
+Response status code: 200OK <br>
 
 Below you can find a picture of the API request from Postman:<br>
 
-**Inserati aici o poza cu requestul din postman in care sa se observe request method, endpoint, request body si response body**<br>
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/b7b69ff5-1f08-4350-be54-16bb929326d1)
+<br>
 
 JavaScript Tests:
 
-**Inserati aici o poza cu testele in java script pe care le-ati definit impreuna cu rezultatele executiei acestora**<br>
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/6d714dd1-2a01-4e66-b328-2cd693d4c2d3)
+<br>
 
 </ol>
 
@@ -67,7 +70,8 @@ JavaScript Tests:
 
 Below you can find the execution report that was generated through the Postman collection runner. <br>
 
-**Inserati aici o poza cu raportul de executie din Postman**<br>
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/48f257ec-8be2-4227-8a34-c36f3198ca62)
+<br>
 
 The collection was also run through newman directly from the terminal, and the results can be found below:<br>
 
@@ -77,12 +81,14 @@ The collection was also run through newman directly from the terminal, and the r
 
 The following issues were identified while running the postman tests:<br>
 
-****Inserati aici fie un fisier pdf care sa contina raportarea tuturor bug-urilor, fie le descrieti direct in git
-Bug-urile trebuie sa contina titlu, preconditii, pasi de executie, rezultate asteptate si rezultate actuale.
-Optional, bug-urile pot fi raportate in jira, si apoi puteti pune poze direct din jira**
+Bug No 1.
+With the GET Get all objects request the user can't get the personally added objects listed, the user can add as many obiects to the API s database the GET Get all request wont show it
+
+Bug No 2.
+With the PATCH Update an object request the user normally can update one or more lines from an object but this PATCH request can update normally only the "name" line, if the user updates/patches a value from the "data" section then all of the unupdated lines will be deleted, for example I like to update the color line and all of the other lines will be deleted, the color line will be updated only.
 
 <h2>Conclusions</h2>
 
-**Inserati aici concluziile pe care le-ati obtinut in urma executarii testelor  si introduceti informatii cum ar fi cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc**
+This Restful API
 
 
