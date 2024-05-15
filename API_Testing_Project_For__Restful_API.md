@@ -47,7 +47,6 @@ JavaScript Tests:
 
 <br>
 
-.............
 
 <li>PUT Update object</li>
 
