@@ -15,17 +15,19 @@ Collection link: https://api.restful-api.dev/
 
 HTTP method for request: GET https://api.restful-api.dev/objects?id=2&id=6&id=11 <br>
 Request description: This GET request lists all of the objects stored from the API's database with the requested ID, in my example id number 2 6 and 11 <br>
-Test types / techniques used: White box testing <br>
+Test types / techniques used: Number of objectsis equal with 3 and Every name contains "apple" word <br>
 Response status code: 200OK <br>
 
 Below you can find a picture of the API request from Postman:<br>
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/adb404d9-e124-42ea-a54f-58abbd3e3f18)
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/ec6ff104-5392-48ff-a423-af05e8fdc3a4)
+
 
 
 JavaScript Tests:
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/a6a57976-ed5d-4db8-b3d1-81dc64a5d399)
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/a48b5b5c-a894-4c95-8b00-5be631b9af71)
+
 
 
 <li>POST: Add an object</li>
