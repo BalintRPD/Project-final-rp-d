@@ -34,7 +34,7 @@ JavaScript Tests:
 
 HTTP method for request: POST: https://api.restful-api.dev/objects <br>
 Request description: This POST request adds a new obiect with totally new lines,datas resulting an unique ID number<br>
-Test types / techniques used: White box testing <br>
+Test types / techniques used: Status code is 200 and Response time is less then 4s <br>
 Response status code: 200OK <br>
 
 Below you can find a picture of the API request from Postman:<br>
@@ -54,7 +54,7 @@ JavaScript Tests:
 HTTP method for request: PUT https://api.restful-api.dev/objects<br>
 Request description: This PUT request adds new line/s to a specific ID s object<br>
 Test types / techniques used: White box testing<br>
-Response status code: 200OK <br>
+Response status code: Not to contain "doesn 't exist" and Status code is 200 <br>
 
 Below you can find a picture of the API request from Postman:<br>
 
@@ -63,7 +63,8 @@ Below you can find a picture of the API request from Postman:<br>
 
 JavaScript Tests:
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/6d714dd1-2a01-4e66-b328-2cd693d4c2d3)
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/8003c71f-6346-42d1-945a-60076d7ce08b)
+
 <br>
 
 </ol>
@@ -72,7 +73,9 @@ JavaScript Tests:
 
 Below you can find the execution report that was generated through the Postman collection runner. <br>
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/48f257ec-8be2-4227-8a34-c36f3198ca62)
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/b5592b6d-10cd-4679-b3db-a29c334d0b93)
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/90e0c9b0-3f04-4aff-b974-75f872648823)
+
 <br>
 
 The collection was also run through newman directly from the terminal, and the results can be found below:<br>
