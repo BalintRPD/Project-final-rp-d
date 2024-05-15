@@ -79,7 +79,8 @@ Below you can find the execution report that was generated through the Postman c
 
 The collection was also run through newman directly from the terminal, and the results can be found below:<br>
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/687266a4-4d41-49dd-8329-47c17d3f5cc1)
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/85a77e1f-c1e7-493f-bb94-4d825927a0ae)
+
 
 <br>
 
