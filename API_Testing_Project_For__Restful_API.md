@@ -11,10 +11,10 @@ Collection link: https://api.restful-api.dev/
 <h2>Tests performed</h2>
 
 <ol>
-<li>GET Get list of all objects</li>
+<li>List of objects by ID's</li>
 
-HTTP method for request: GET https://api.restful-api.dev/objects <br>
-Request description: This GET request lists all of the objects stored from the API's database <br>
+HTTP method for request: GET https://api.restful-api.dev/objects?id=2&id=6&id=11 <br>
+Request description: This GET request lists all of the objects stored from the API's database with the requested ID, in my example id number 2 6 and 11 <br>
 Test types / techniques used: White box testing <br>
 Response status code: 200OK <br>
 
