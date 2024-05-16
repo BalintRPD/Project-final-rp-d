@@ -43,6 +43,7 @@ Below you can find a picture of the API request from Postman:<br>
 <br>
 
 JavaScript Tests:
+
 ![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/de893226-adef-4c15-b0bd-1ca097dc0720)
 
 <br>
