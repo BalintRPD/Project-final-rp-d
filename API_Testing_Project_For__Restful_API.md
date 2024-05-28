@@ -43,7 +43,6 @@ Below you can find a picture of the API request from Postman:<br>
 
 JavaScript Tests:
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/de893226-adef-4c15-b0bd-1ca097dc0720)
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/de893226-adef-4c15-b0bd-1ca097dc0720" width="50%" height="50%">
 
 <br>
@@ -59,11 +58,13 @@ Response status code: Not to contain "doesn 't exist" and Status code is 200 <br
 Below you can find a picture of the API request from Postman:<br>
 
 ![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/b7b69ff5-1f08-4350-be54-16bb929326d1)
+<img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/b7b69ff5-1f08-4350-be54-16bb929326d1" width="50%" height="50%">
 <br>
 
 JavaScript Tests:
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/8003c71f-6346-42d1-945a-60076d7ce08b)
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/8003c71f-6346-42d1-945a-60076d7ce08b
+<img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/8003c71f-6346-42d1-945a-60076d7ce08b" width="50%" height="50%">
 
 <br>
 
