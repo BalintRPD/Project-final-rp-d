@@ -66,7 +66,7 @@ JavaScript Tests:
 
 <br>
 
-</ol>
+
 
 <h2>Execution report for the created API collection </h2>
 
