@@ -21,7 +21,7 @@ Response status code: 200OK <br>
 Below you can find a picture of the API request from Postman:<br>
 
 ![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/ec6ff104-5392-48ff-a423-af05e8fdc3a4)
-<img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/ec6ff104-5392-48ff-a423-af05e8fdc3a4" width="100" height="100">
+<img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/ec6ff104-5392-48ff-a423-af05e8fdc3a4" width="400" height="350">
 
 
 
