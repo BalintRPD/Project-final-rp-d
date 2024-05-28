@@ -67,7 +67,7 @@ JavaScript Tests:
 
 <br>
 
-
+// Put patch delete id from API előre szabott
 
 <h2>Execution report for the created API collection </h2>
 
