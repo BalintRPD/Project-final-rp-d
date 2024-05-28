@@ -62,6 +62,7 @@ Below you can find a picture of the API request from Postman:<br>
 <br>
 
 JavaScript Tests:
+
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/8003c71f-6346-42d1-945a-60076d7ce08b" width="50%" height="50%">
 
 <br>
