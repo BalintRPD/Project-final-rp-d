@@ -26,7 +26,6 @@ Below you can find a picture of the API request from Postman:<br>
 
 JavaScript Tests:
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/a48b5b5c-a894-4c95-8b00-5be631b9af71)
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/a48b5b5c-a894-4c95-8b00-5be631b9af71" width="50%" height="50%">
 
 
@@ -40,6 +39,7 @@ Response status code: 200OK <br>
 Below you can find a picture of the API request from Postman:<br>
 
 ![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/3b09d553-ca85-4b77-a59a-913cc59441be)
+<img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/3b09d553-ca85-4b77-a59a-913cc59441be" width="50%" height="50%">
 <br>
 
 JavaScript Tests:
