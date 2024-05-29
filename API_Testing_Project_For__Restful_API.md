@@ -67,14 +67,19 @@ JavaScript Tests:
 
 <br>
 
-// Put patch delete id from API előre szabott
+
 
 <h2>Execution report for the created API collection </h2>
 
 Below you can find the execution report that was generated through the Postman collection runner. <br>
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/b5592b6d-10cd-4679-b3db-a29c334d0b93)
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/90e0c9b0-3f04-4aff-b974-75f872648823)
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/989e687f-02be-47b6-b2c7-2a0ebdb5fef0)
+<img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/989e687f-02be-47b6-b2c7-2a0ebdb5fef0" width="50%" height="50%">
+
+![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/e3598073-a5d3-4a99-a727-a48ccd236cbc)
+<img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/e3598073-a5d3-4a99-a727-a48ccd236cbc" width="50%" height="50%">
+
+
 
 <br>
 
