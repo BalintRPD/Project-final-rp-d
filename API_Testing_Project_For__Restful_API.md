@@ -29,19 +29,19 @@ Collection link: https://api.restful-api.dev/
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/a48b5b5c-a894-4c95-8b00-5be631b9af71" width="50%" height="50%">
 
 
-<li>POST: Add an object</li>
+<li> <h3> POST: Add an object </h3> </li>
 
-HTTP method for request: POST: https://api.restful-api.dev/objects <br>
-Request description: This POST request adds a new obiect with totally new lines,datas resulting an unique ID number<br>
-Test types / techniques used: Status code is 200 and Response time is less then 4s <br>
-Response status code: 200OK <br>
+<b> HTTP method for request:</b> POST: https://api.restful-api.dev/objects <br>
+<b> Request description:</b> This POST request adds a new obiect with totally new lines,datas resulting an unique ID number<br>
+<b> Test types / techniques used:</b> Status code is 200 and Response time is less then 4s <br>
+<b>Response status code:</b> 200OK <br>
 
-Below you can find a picture of the API request from Postman:<br>
+<h4> Below you can find a picture of the API request from Postman:</h4>h<br>
 
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/3b09d553-ca85-4b77-a59a-913cc59441be" width="50%" height="50%">
 <br>
 
-JavaScript Tests:
+<h4> JavaScript Tests: </h4> 
 
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/de893226-adef-4c15-b0bd-1ca097dc0720" width="50%" height="50%">
 
