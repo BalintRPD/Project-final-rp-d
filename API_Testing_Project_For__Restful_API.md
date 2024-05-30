@@ -18,7 +18,7 @@ Collection link: https://api.restful-api.dev/
 <b> Test types / techniques used:</b> Number of objects is equal with 3 and Every name contains "apple" word <br>
 <b> Response status code:</b> 200OK <br>
 
-Below you can find a picture of the API request from Postman:<br>
+<h4> Below you can find a picture of the API request from Postman:</h4> <br>
 
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/ec6ff104-5392-48ff-a423-af05e8fdc3a4" width="50%" height="50%">
  <br>
