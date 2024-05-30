@@ -36,7 +36,7 @@ Collection link: https://api.restful-api.dev/
 <b> Test types / techniques used:</b> Status code is 200 and Response time is less then 4s <br>
 <b>Response status code:</b> 200OK <br>
 
-<h4> Below you can find a picture of the API request from Postman:</h4>h<br>
+<h4> Below you can find a picture of the API request from Postman:</h4> <br>
 
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/3b09d553-ca85-4b77-a59a-913cc59441be" width="50%" height="50%">
 <br>
