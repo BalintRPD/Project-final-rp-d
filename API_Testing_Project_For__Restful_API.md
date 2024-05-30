@@ -81,7 +81,7 @@ Collection link: https://api.restful-api.dev/ <br>
 
 <br>
 
-The collection was also run through Newman directly from the terminal, and the results can be found below:<br>
+<h3> The collection was also run through Newman directly from the terminal, and the results can be found below:</h3> <br>
 
 
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/e58b68db-c504-4871-b832-fd0ab7c8e1c3" width="50%" height="50%">
