@@ -71,7 +71,7 @@ Collection link: https://api.restful-api.dev/ <br>
 
 <h2>Execution report for the created API collection </h2>
 
-Below you can find the execution report that was generated through the Postman collection runner. <br>
+<h3> Below you can find the execution report that was generated through the Postman collection runner.</h3> <br>
 
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/989e687f-02be-47b6-b2c7-2a0ebdb5fef0" width="50%" height="50%">
 
