@@ -11,7 +11,7 @@ Collection link: https://api.restful-api.dev/
 <h2>Tests performed</h2>
 
 <ol>
-<li><h3>List of objects by ID's</h3>h</li>
+<li> <h3> List of objects by ID's </h3> </li>
 
 HTTP method for request: GET https://api.restful-api.dev/objects?id=2&id=6&id=11 <br>
 Request description: This GET request lists all of the objects stored from the API's database with the requested ID, in my example id number 2 6 and 11 <br>
