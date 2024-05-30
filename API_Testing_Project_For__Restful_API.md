@@ -6,7 +6,7 @@ Application under test: Restful API
 
 Tools used: Postman, Newman
 
-Collection link: https://api.restful-api.dev/
+Collection link: https://api.restful-api.dev/ <br>
 [Link to Postman collection](https://api.postman.com/collections/31493100-1531798a-a2b7-48e4-a103-c6354d421f1d?access_key=PMAT-01HYZY7P2D71QX5K85QHFRGCYM)
 
 <h2>Tests performed</h2>
