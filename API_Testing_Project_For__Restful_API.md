@@ -73,19 +73,22 @@ JavaScript Tests:
 
 Below you can find the execution report that was generated through the Postman collection runner. <br>
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/989e687f-02be-47b6-b2c7-2a0ebdb5fef0)
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/989e687f-02be-47b6-b2c7-2a0ebdb5fef0" width="50%" height="50%">
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/e3598073-a5d3-4a99-a727-a48ccd236cbc)
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/e3598073-a5d3-4a99-a727-a48ccd236cbc" width="50%" height="50%">
 
 
 
 <br>
 
-The collection was also run through newman directly from the terminal, and the results can be found below:<br>
+The collection was also run through Newman directly from the terminal, and the results can be found below:<br>
 
-![image](https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/85a77e1f-c1e7-493f-bb94-4d825927a0ae)
+
+<img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/e58b68db-c504-4871-b832-fd0ab7c8e1c3" width="50%" height="50%">
+
+<img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/8b378f90-a86a-4c0a-ad66-4814e68d3489" width="50%" height="50%">
+
+
 
 
 <br>
