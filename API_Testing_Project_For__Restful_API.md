@@ -97,10 +97,10 @@ Collection link: https://api.restful-api.dev/ <br>
 
 The following issues were identified while running the postman tests:<br>
 
-Bug No 1.
+<b> Bug No 1.</b>
 With the GET Get all objects request the user can't get the personally added objects listed, the user can add as many obiects to the API s database the GET Get all request wont show it
 
-Bug No 2.
+<b> Bug No 2.</b>
 With the PATCH Update an object request the user normally can update one or more lines from an object but this PATCH request can update normally only the "name" line, if the user updates/patches a value from the "data" section then all of the unupdated lines will be deleted, for example I like to update the color line and all of the other lines will be deleted, the color line will be updated only.
 
 <h2>Conclusions</h2>
