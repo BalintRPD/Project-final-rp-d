@@ -105,11 +105,11 @@ With the PATCH Update an object request the user normally can update one or more
 
 <h2>Conclusions</h2>
 
-This Restful API is almost ready to publish as 100% passed, the only things I have experienced are the following:
--After the execution of 12 tests 11 has passed and only 1 is failed meaning that the 90.90% of the tests are passed
+This Restful API is almost ready to publish, the only things I have experienced are the following:
+-After the execution of 15 tests 3 tests (4 in Newman) has failed, all the tests where the pre-defined objects was tested with PATCH, PUT and DELETE were faield and the ADD request had one test failed in plus in Newman because the response time was higher then 4 seconds, but only in Newman I faced this error, resulting that the ADD request takes more time in Newman and that the pre-defined objects can't be modified because of the 405 Status code
 -The GET Get all objects request do not bring up the manually added objects by the user with the POST Add an object request
--The PATCH Update object request can update/patch correctly only the "name" value, the other values from the "data" field will be deleted, only the patched line will stay they (for example I PATCH the "color" value to "Yellow" for oject with ID=1 and the "capacity value will dissapear, only the "color" : "Yellow" will stay there
--There are some performance issues, while executing the same request for example the GET Get all objects will have the response time of 300ms 900ms and even 3 or 4 seconds to, so the performance is not stable on the servers side. These tests were made without any extra network using apps on my PC.
-My opinion is that the Restful API is a user friendly API with a few bugs to fix, the majority of the functionalities are working perfectly with some performance issues on the API's server side.
+-The PATCH Update object request can update/patch correctly only the "name" value, the other values from the "data" field will be deleted, only the patched line will stay they (for example I PATCH the "color" value to "Yellow" for oject with ID=ff8081818fb998eb018fc4bed39516a7 and the "capacity value will dissapear, only the "color" : "Yellow" will stay there
+
+My opinion is that the Restful API is a user friendly API with a few bugs to fix, the majority of the functionalities are working perfectly with some performance issues on the API's server side (with Newman this can be experienced much more)
 
 
