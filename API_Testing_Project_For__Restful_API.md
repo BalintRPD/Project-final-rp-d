@@ -14,9 +14,9 @@ Collection link: https://api.restful-api.dev/
 <li> <h3> List of objects by ID's </h3> </li>
 
 <b> HTTP method for request:</b> GET https://api.restful-api.dev/objects?id=2&id=6&id=11 <br>
-Request description: This GET request lists all of the objects stored from the API's database with the requested ID, in my example id number 2 6 and 11 <br>
-Test types / techniques used: Number of objectsis equal with 3 and Every name contains "apple" word <br>
-Response status code: 200OK <br>
+<b> Request description:</b> This GET request lists all of the objects stored from the API's database with the requested ID, in my example id number 2 6 and 11 <br>
+<b> Test types / techniques used:</b> Number of objects is equal with 3 and Every name contains "apple" word <br>
+<b> Response status code:</b> 200OK <br>
 
 Below you can find a picture of the API request from Postman:<br>
 
