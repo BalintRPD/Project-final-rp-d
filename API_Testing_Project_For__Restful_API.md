@@ -25,7 +25,7 @@ Collection link: https://api.restful-api.dev/
 
 
 
-JavaScript Tests:
+<h4> JavaScript Tests: </h4> 
 
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/a48b5b5c-a894-4c95-8b00-5be631b9af71" width="50%" height="50%">
 
