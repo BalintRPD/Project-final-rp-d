@@ -48,19 +48,19 @@ Collection link: https://api.restful-api.dev/
 <br>
 
 
-<li>PUT Update object</li>
+<li> <h3> PUT Update object </h3></li>
 
-HTTP method for request: PUT https://api.restful-api.dev/objects<br>
-Request description: This PUT request adds new line/s to a specific ID s object<br>
-Test types / techniques used: White box testing<br>
-Response status code: Not to contain "doesn 't exist" and Status code is 200 <br>
+<b> HTTP method for request:</b> PUT https://api.restful-api.dev/objects<br>
+<b> Request description:</b> This PUT request adds new line/s to a specific ID s object<br>
+<b>Test types / techniques used:</b> White box testing<br>
+<b> Response status code:</b> Not to contain "doesn 't exist" and Status code is 200 <br>
 
-Below you can find a picture of the API request from Postman:<br>
+<h4> Below you can find a picture of the API request from Postman:</h4> <br>
 
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/b7b69ff5-1f08-4350-be54-16bb929326d1" width="50%" height="50%">
 <br>
 
-JavaScript Tests:
+<h4> JavaScript Tests:</h4>
 
 <img src="https://github.com/BalintRPD/Project-final-rp-d/assets/165387441/8003c71f-6346-42d1-945a-60076d7ce08b" width="50%" height="50%">
 
