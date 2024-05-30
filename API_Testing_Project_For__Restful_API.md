@@ -53,8 +53,8 @@ Collection link: https://api.restful-api.dev/ <br>
 
 <b> HTTP method for request:</b> PUT https://api.restful-api.dev/objects<br>
 <b> Request description:</b> This PUT request adds new line/s to a specific ID s object<br>
-<b>Test types / techniques used:</b> White box testing<br>
-<b> Response status code:</b> Not to contain "doesn 't exist" and Status code is 200 <br>
+<b>Test types / techniques used:</b> To not contain 'doesn't exist' line (this is resulting a successfully updated line and Status code is 200 <br>
+<b> Response status code:</b> 200 OK <br>
 
 <h4> Below you can find a picture of the API request from Postman:</h4> <br>
 
